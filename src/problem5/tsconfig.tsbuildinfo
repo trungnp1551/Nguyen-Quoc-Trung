@@ -1,0 +1,1 @@
+{"root":["./src-project/app.ts","./src-project/index.ts","./src-project/config/db.ts","./src-project/controllers/product.controller.ts","./src-project/models/product.model.ts","./src-project/routes/product.routes.ts","./src-project/services/product.service.ts","./src-project/types/product.type.ts"],"version":"5.7.3"}
